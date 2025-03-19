@@ -8,12 +8,8 @@ loader/
 *.lock
 *.tmp
 *.tmp.*
-log.txt
-*.sublime-project
-*.sublime-workspace
 
 .vscode/
-.sass-cache/
 .versions/
 node_modules/
 $RECYCLE.BIN/
